@@ -67,3 +67,14 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
+
+.left{
+    flex-basis: 40%;
+}
+.right{
+    flex-basis: 50%;
+}
+
+.right img{
+    width: 100%;
+}
