@@ -38,3 +38,24 @@ nav{
     border-radius: 5px;
     transition: 0.4s linear;
 }
+
+.line{
+    position: absolute;
+    top: 22%;
+    left: 8%;
+}
+.box1{
+    width: 10px;
+    height: 10px;
+    background: white;
+}
+.box2{
+    width: 60px;
+    height: 2px;
+    background: white;
+}
+.box3{
+    width: 100px;
+    height: 2px;
+    background: white;
+}
