@@ -27,3 +27,8 @@ nav{
     padding: 10px 20px;
     margin: 0px 5px;
 }
+
+.menu a:last-child{
+    background: #e74c3c;
+    border-radius: 5px;
+}
