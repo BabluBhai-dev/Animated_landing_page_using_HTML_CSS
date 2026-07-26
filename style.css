@@ -98,3 +98,13 @@ nav{
     outline: none;
     border-radius: 5px;
 }
+
+.s-icon{
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+}
+
+.s-icon img{
+    width: 100px;
+}
