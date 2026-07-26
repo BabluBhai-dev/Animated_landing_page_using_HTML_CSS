@@ -83,6 +83,8 @@ nav{
 
 .right img{
     width: 100%;
+    /* reflection */
+    -webkit-box-reflect: below 1px linear-gradient(transparent,transparent,#0004);
 }
 
 .left h1{
